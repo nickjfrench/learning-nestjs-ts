@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "learning-nestjs-ts",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
